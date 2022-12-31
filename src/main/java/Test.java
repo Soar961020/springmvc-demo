@@ -7,5 +7,9 @@ import java.sql.SQLOutput;
 public class Test {
     public static void main(String[] args) {
         System.out.println("demo1第四次提交");
+
+    }
+    public void login() {
+        System.out.println("登陆功能");
     }
 }
