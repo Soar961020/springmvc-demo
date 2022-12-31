@@ -8,5 +8,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("练习提交");
         System.out.println("demo添加一句话");
+        System.out.println("demo1添加一句话");
     }
 }
