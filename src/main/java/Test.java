@@ -9,5 +9,6 @@ public class Test {
         System.out.println("练习提交");
         System.out.println("demo添加一句话");
         System.out.println("demo第二次添加一句话");
+        System.out.println("demo提交第二句话");
     }
 }
