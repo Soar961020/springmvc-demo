@@ -8,4 +8,8 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("demo第四次提交代码");
     }
+
+    public void logout() {
+        System.out.println("登出功能");
+    }
 }
